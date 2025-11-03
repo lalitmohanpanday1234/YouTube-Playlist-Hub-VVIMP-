@@ -451,6 +451,23 @@ input[type="checkbox"] {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5), var(--hover-glow-strong);
 }
 
+.card-body {
+    padding: 0 2rem 2rem;
+    max-height: 0;
+    overflow: hidden;
+    transition: var(--transition-slow);
+    /* YEH NAYA CODE ADD KARO: */
+    opacity: 0;
+    visibility: hidden;
+}
+
+.playlist-card.expanded .card-body {
+    max-height: 2000px;
+    /* YEH BHI ADD KARO: */
+    opacity: 1;
+    visibility: visible;
+}
+
 .card-header {
     padding: 2rem;
     cursor: pointer;
