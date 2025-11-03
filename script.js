@@ -1,8 +1,8 @@
 // Playlist data
 const playlists = [
-    {
-    title: "🎬💗🎨 Cinema for the Soul | Best Films & Short Films | Thinking Provoking, Life Changing, Meaningful & Revolution | Must Watch for Everyone",
-    description: "",
+     {
+    title: "🎬💗🎨 Cinema for the Soul | Best Films & Short Films | Thinking Provoking",
+    description: "A carefully curated collection of meaningful films and short films that provoke deep thinking and inspire positive change. This playlist features life-changing content with high impact value, offering revolutionary perspectives through cinema.",
     url: "https://www.youtube.com/playlist?list=PLM6hCXv-ZtdEDsolXH0KRhc0GZpjMmt-b",
     channel: "@WeAreMature",
     categories: ["⭐ VVIMP", "🎬 Film"],
@@ -10,8 +10,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳®⭐®🎬 Movies (Expose And Reality of Society)",
-    description: "",
+    title: "🇮🇳®⭐®🎬 Movies | Expose And Reality of Society",
+    description: "Powerful films that expose societal realities and hidden truths about Indian society. These movies serve as eye-openers with very high usefulness for creating social awareness and positive change.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18OlB0vNkxN9r7EyKkG-4Pgw",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "🎬 Film"],
@@ -19,8 +19,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🔞®🎬💀🥵 Cinema's Dark Side | When Indian Films Show & Support - Crime & R@pe | R@pe & Violence in Indian Films |",
-    description: "",
+    title: "🔞®🎬💀🥵 Cinema's Dark Side | Crime & R@pe in Indian Films",
+    description: "This playlist exposes the problematic portrayal of crime and sexual violence in Indian cinema. While highlighting negative aspects, it serves the important purpose of creating awareness about harmful content in films.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18MVNiAyemuWB5m-98wutnOz",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "🎬 Film"],
@@ -28,8 +28,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Great Indian Reformers, Leaders & Peoples | Hindi | Best Videos To Learn Their Social Work, Legacy & Contributions",
-    description: "",
+    title: "Great Indian Reformers | Leaders & Peoples | Hindi",
+    description: "Inspirational videos about India's greatest reformers and social leaders. Learn about their remarkable contributions and legacy through this highly useful biographical collection that promotes positive values.",
     url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghllP95ZIujl9eNuJndbweX8",
     channel: "@HumanityWood",
     categories: ["⭐ VVIMP", "📺 Video", "Biography"],
@@ -37,8 +37,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🙏 Please Save My India 🇮🇳🥹✅ | Change My India | India Need This | #saveindia #changeindia",
-    description: "",
+    title: "🙏 Please Save My India 🇮🇳🥹✅ | Change My India",
+    description: "A compelling collection of videos advocating for positive change in India. This highly impactful playlist addresses social issues and promotes constructive transformation with very high usefulness for national development.",
     url: "https://www.youtube.com/playlist?list=PLM6hCXv-ZtdGKgkSbYXNBqRPQQt_CXzyr",
     channel: "@WeAreMature",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -46,8 +46,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "1️⃣ -🕉️🔥Kattar Bhakti Songs | Kattar Devotional Songs | Propaganda / Agenda-based Bhakti | kattar hindu bhakti songs | Hardcore Devotional",
-    description: "",
+    title: "1️⃣ -🕉️🔥Kattar Bhakti Songs | Kattar Devotional Songs | Propaganda Bhakti",
+    description: "This playlist examines devotional music with potential propaganda elements. While categorized as having negative impact due to agenda-based content, it provides important awareness about religious messaging in music.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3bJKAQStQk-Gn3tq8IPl_zt",
     channel: "@YouTubePlaylistHindi",
     categories: ["🎵 Music", "🕉️ Hinduism", "⭐ VVIMP"],
@@ -55,8 +55,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳®⭐®😍💖 India | Beautiful India 😍 | I Love My India ❤️ | beautiful india country | Best & beautiful India Video | Beauty of India",
-    description: "",
+    title: "🇮🇳®⭐®😍💖 India | Beautiful India 😍 | I Love My India",
+    description: "Celebrate the incredible beauty and diversity of India through this stunning visual collection. High-quality videos showcasing the country's landscapes, culture, and people with positive impact.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18PBS7pmJJoVFjqjBCR6MSiz",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -65,7 +65,7 @@ const playlists = [
   },
   {
     title: "⭐®⭐ VVIMP VIDEOS | VERY VERY IMPORTANT VIDEOS",
-    description: "",
+    description: "A comprehensive collection of highly important videos covering crucial topics. This playlist offers very high usefulness with positive impact, featuring essential content for informed awareness.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18MtYO3TLt-hS1VzwclxDgFo",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -73,8 +73,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳®⭐®😍🐾 World of Animals: Beauty, Emotion & Kindness in the Wild | Animal Beauty, Emotion & Family Bonds | Animals Like Us",
-    description: "",
+    title: "🇮🇳®⭐®😍🐾 World of Animals | Beauty & Emotion in the Wild",
+    description: "Beautiful documentation of animal life showcasing emotional bonds and natural beauty in the wild. High-impact positive content that highlights the wonderful world of animals and their family connections.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18OelB5bk13m1VNgkgmEqiJx",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -82,8 +82,8 @@ const playlists = [
     usefulness: "⚡High"
   },
   {
-    title: "🇮🇳®😢🐾World Of Animals -The Unseen Suffering: Pain, Cruelty & A Call for Help | The Dark Side for Animals | Animal Suffering",
-    description: "",
+    title: "🇮🇳®😢🐾World Of Animals -The Unseen Suffering | Pain & Cruelty",
+    description: "This important playlist exposes the hidden suffering and cruelty faced by animals. While content has negative impact, it serves crucial awareness purpose with very high usefulness for animal welfare education.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18MSscw6Vl_2ZJAm-M_-sEAA",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -91,8 +91,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "❌®😳🤢💩 The Negative Influence | Problematic Content: A Collection of Socially Damaging Messages in Media | Negative massage | #NegativeInfluence",
-    description: "",
+    title: "❌®😳🤢💩 The Negative Influence | Problematic Content",
+    description: "A critical examination of socially damaging messages in media and problematic content. This collection serves as important awareness tool about negative influences with very high usefulness for media literacy.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18Nw2k2HUJYUB9_wHN9JnuDQ",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -100,8 +100,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳⚫ Dark India | Mass Level 👥 | India's Biggest Riots and Tragedies | Indian History's Darkest Days | Mass Level Social Crimes | Collective Tragedies",
-    description: "",
+    title: "🇮🇳⚫ Dark India | Mass Level 👥 | India's Biggest Riots",
+    description: "Documenting India's collective tragedies and mass-level social crimes from history. While covering negative events, this playlist provides crucial historical awareness with very high educational value.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18M-JFgBXRcaMTHQGzqIpr17",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -109,8 +109,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳⚫ Dark India | Individual Level 👤 | Crimes That Shocked the Nation | Tragic Indian Cases | Individual Personal Level Crimes | Individual Tragedies",
-    description: "",
+    title: "🇮🇳⚫ Dark India | Individual Level 👤 | Crimes That Shocked",
+    description: "Covering individual-level crimes and personal tragedies that impacted the nation. This collection serves as important case studies with very high usefulness for understanding societal issues.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18PvtkBXfpJqJaiII11wXaH5",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -119,7 +119,7 @@ const playlists = [
   },
   {
     title: "Raajneetik Neta (Political Leaders) Of INDIA",
-    description: "",
+    description: "Comprehensive coverage of India's political leaders and their contributions. This positive impact playlist offers very high usefulness for understanding political history and leadership in India.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18N3xjk8ec3ovdSKRgInh-v_",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -127,8 +127,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🔞®🇮🇳🔥💦 Best India Hot Sexy Bold Adult Music Videos | Very Hot Music Videos | Best Item Songs | Sensual, Erotic, Seductive | Top hot music video ever",
-    description: "",
+    title: "🔞®🇮🇳🔥💦 Best India Hot Sexy Bold Adult Music Videos",
+    description: "Collection of adult-oriented music videos and bold content from Indian entertainment. Categorized as negative impact due to sensational content, but provides important media analysis value.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18NdKY9pjvGlh2EhamxXXQri",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "🎵 Music"],
@@ -136,8 +136,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳®⭐®✊🏴‍☠️ Protest Music India 🇮🇳🎵🎧 | Expose Govt, Society By Music | Protest/Change By Songs | Dark Side Of India",
-    description: "",
+    title: "🇮🇳®⭐®✊🏴‍☠️ Protest Music India | Expose Govt By Music",
+    description: "Powerful protest music that addresses social and political issues through songs. This positive impact playlist uses music as medium for social commentary with very high awareness value.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18NvWMBJLqxewyGzM7pH2jVI",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "🎵 Music"],
@@ -145,8 +145,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳®🕵️‍♂️☠️🇮🇳 The Unseen India | India's Dark Reality: Beyond the Headlines | India's Hidden Realities",
-    description: "",
+    title: "🇮🇳®🕵️‍♂️☠️🇮🇳 The Unseen India | India's Dark Reality",
+    description: "Revealing the hidden realities and darker aspects of India beyond mainstream narratives. This important collection provides eye-opening insights with positive impact for social awareness.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18N-sNusYQKEqVaS-1myxL4n",
     channel: "@DarkSideOf-India",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -154,8 +154,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Godman Special | Baba Bazar | Andhvishwas vs Sach | Fake Gurus, Superstition, Blind Faith, Fake Saints, Funny Claims & Hidden Truths | Must Watch All",
-    description: "",
+    title: "Godman Special | Baba Bazar | Andhvishwas vs Sach",
+    description: "Critical examination of fake gurus, superstition, and blind faith in Indian society. This highly useful playlist exposes religious exploitation with positive impact for rational thinking.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3Yrv-pCbM4W2Lhejd3Tx8PY",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "🧑‍🏫 Guru"],
@@ -163,8 +163,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "❌®💩 🤢Useless/Meaningless/Timepass Videos | Negative Massage | This is not funny & entertainment | Save humanity | Dark side of media",
-    description: "",
+    title: "❌®💩 🤢Useless/Meaningless/Timepass Videos | Negative Massage",
+    description: "Analysis of meaningless and time-wasting content in digital media. This playlist serves important critical purpose by examining negative influences with very high media literacy value.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18NxA59YCViCREO-9l-uVF-f",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -172,8 +172,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "🇮🇳 Best Videos in the World | At least everyone should see this much | Videos That Everyone Should Watch | Society, Humanity & Real Life Lessons",
-    description: "",
+    title: "🇮🇳 Best Videos in the World | Everyone Should See",
+    description: "Essential video collection that everyone should watch for life lessons and social awareness. This highly useful playlist offers positive impact through meaningful content selection.",
     url: "https://www.youtube.com/playlist?list=PLM6hCXv-ZtdG3Hq1Q3geCGjkX-bDDjXn9",
     channel: "@WeAreMature",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -181,8 +181,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "✅®😑👁️ Save Humanity, Society | A lot of changes are needed in the world | Everyone's thinking should change | Dark Side Of Human | Dark Side Of Media",
-    description: "",
+    title: "✅®😑👁️ Save Humanity | Changes Needed in World",
+    description: "Thought-provoking content about necessary changes in society and human thinking. This positive impact playlist offers very high usefulness for social transformation awareness.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18Nn6QDYicOqt7aZYJMliPSH",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -190,8 +190,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "❌®🍟🙅💩 Digital Junk Food | Clickbait, Adult & Low-value Content | Cheap Entertainment | Timepass, Time waste | Mindless Content, Junk Content",
-    description: "",
+    title: "❌®🍟🙅💩 Digital Junk Food | Clickbait & Low-value",
+    description: "Critical analysis of clickbait, adult content, and low-value digital entertainment. This playlist examines negative media influences while providing high awareness value.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18PSx_7GUXGINJC8o4IxgoZO",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -199,8 +199,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "❌®💩💀📈 Most Useless Videos In The World But Viral So Much | Cringe, Trash, Clickbait, Mindless & Bakwas Content | AI Video",
-    description: "",
+    title: "❌®💩💀📈 Most Useless Videos But Viral | Cringe Content",
+    description: "Examination of viral but useless content including cringe and trash material online. This critical playlist serves important purpose by analyzing negative digital trends.",
     url: "https://www.youtube.com/playlist?list=PLLPLg12cL18N0Ztcn4aBFdS9tZ7NrcpVi",
     channel: "@DarkSideOf-India",
     categories: ["📺 Video", "⭐ VVIMP"],
@@ -208,8 +208,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Best Philosophy & Deep Meaning Songs | Emotional & Thoughtful Hindi Songs | Real Life Songs Playlist | Hindi",
-    description: "",
+    title: "Best Philosophy & Deep Meaning Songs | Emotional Songs",
+    description: "Beautiful collection of philosophical and emotionally deep Hindi songs with meaningful lyrics. This positive impact music playlist offers very high value for thoughtful listening.",
     url: "https://www.youtube.com/playlist?list=PLM6hCXv-ZtdExAU3Dud9bmbZsfCHHyLZf",
     channel: "@WeAreMature",
     categories: ["🎵 Music", "⭐ VVIMP"],
@@ -217,8 +217,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Best Humanity Songs | Soulful Music for Humanity, Peace, Kindness, and Emotions | Positive Hindi Songs for All | Heart-Touching Playlist | Hindi",
-    description: "",
+    title: "Best Humanity Songs | Soulful Music for Humanity",
+    description: "Heart-touching music dedicated to humanity, peace, and kindness through soulful Hindi songs. This positive playlist offers very high emotional and inspirational value.",
     url: "https://www.youtube.com/playlist?list=PLM6hCXv-ZtdEfMBMWwY2JZ2M2cBPqMkcf",
     channel: "@WeAreMature",
     categories: ["🎵 Music", "⭐ VVIMP"],
@@ -226,8 +226,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Great World Thinkers & Spiritual Teachers | Hindi | Best Videos To Understand Their Wisdom",
-    description: "",
+    title: "Great World Thinkers & Spiritual Teachers | Hindi",
+    description: "Learn from world's greatest thinkers and spiritual teachers through Hindi videos. This highly useful biographical collection offers positive wisdom with very high educational impact.",
     url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghkcWt_lKnqLVpBRcAM_xKph",
     channel: "@HumanityWood",
     categories: ["⭐ VVIMP", "Biography", "📺 Video"],
@@ -235,8 +235,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "▶️5️⃣ Best Videos For Everyone | Motivation, Inspiration, Transformation & Life Hacks | Habits, Mindset, Discipline, Productivity & Focus",
-    description: "",
+    title: "▶️5️⃣ Best Videos For Everyone | Motivation & Life Hacks",
+    description: "Essential videos for motivation, inspiration, and personal transformation with practical life hacks. This positive playlist offers very high usefulness for self-improvement and growth.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3aCvH38Bz5UQZGzkCV1AIEs",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -244,8 +244,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "Great Indian Thinkers & Gurus | Hindi | Best Videos To Understand Their Wisdom, Massages & Teachings",
-    description: "",
+    title: "Great Indian Thinkers & Gurus | Hindi | Their Wisdom",
+    description: "Explore the wisdom and teachings of India's great thinkers and spiritual gurus. This highly useful collection offers positive impact through biographical and philosophical content.",
     url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghmjies7K7wj-97s6WY01syw",
     channel: "@HumanityWood",
     categories: ["⭐ VVIMP", "Biography", "📺 Video"],
@@ -253,8 +253,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "▶️4️⃣ Best Videos For Everyone | Wisdom, Philosophy & Purpose | Life, Time & Job/Work | Life Lessons, Inner Growth & Truth | Must Watch for Everyone",
-    description: "",
+    title: "▶️4️⃣ Best Videos For Everyone | Wisdom & Philosophy",
+    description: "Curated collection of philosophical videos about life purpose, time, and inner growth. This positive impact playlist offers very high value for meaningful life perspectives.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3bnDV6C6pSha40W1VSqy_bu",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -262,8 +262,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "God, Religion & Spirituality as Philosophy | Hindi | Best Videos to Understand True Meaning",
-    description: "",
+    title: "God, Religion & Spirituality as Philosophy | Hindi",
+    description: "Deep exploration of God, religion, and spirituality from philosophical perspective in Hindi. This positive content offers very high usefulness for understanding spiritual concepts.",
     url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghnuOokCA9XS1X8IPR1jqlqk",
     channel: "@HumanityWood",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -271,8 +271,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "▶️1️⃣Best Videos For Everyone | Parenting Tips & Life Lessons | Best Parenting Guide for Parents & Children | Must Watch Videos for Parents & Children",
-    description: "",
+    title: "▶️1️⃣Best Videos For Everyone | Parenting Tips",
+    description: "Essential parenting guide with valuable life lessons for both parents and children. This positive impact playlist offers very high usefulness for family development.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3YKvO0SQVGzO5E-OCqVxwgH",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -280,8 +280,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "▶️2️⃣ Best Videos For Everyone | Health, Fitness, Food & Nutrition Guide | Best Diet, Fitness & Healthy Lifestyle Tips | Must Watch for Everyone",
-    description: "",
+    title: "▶️2️⃣ Best Videos For Everyone | Health & Fitness",
+    description: "Comprehensive guide to health, fitness, nutrition, and healthy lifestyle practices. This positive playlist offers very high usefulness for physical and mental wellbeing.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3bMEMebsuU2FSSa7TnXm-tv",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "📺 Video"],
@@ -289,8 +289,8 @@ const playlists = [
     usefulness: "✅ Very High"
   },
   {
-    title: "▶️3️⃣ Best Videos For Everyone | Reality of Media, Government, Elites & Society | Truth, Awareness & Life Lessons | Must Watch for Everyone",
-    description: "",
+    title: "▶️3️⃣ Best Videos For Everyone | Reality of Media",
+    description: "Eye-opening content about media, government, elites, and societal truths. This positive awareness playlist offers very high usefulness for critical thinking development.",
     url: "https://www.youtube.com/playlist?list=PLwPax9asFg3ZdGXiXHKmxnEDxeohkEqvS",
     channel: "@YouTubePlaylistHindi",
     categories: ["⭐ VVIMP", "📺 Video"],
