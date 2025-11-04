@@ -557,4 +557,5 @@ icon.setAttribute('d', 'M7 14l5-5 5 5z');
 }
 
 // Initialize the application
+
 document.addEventListener('DOMContentLoaded', init);
